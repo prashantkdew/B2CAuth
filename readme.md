@@ -124,7 +124,7 @@ builder.RegisterType<TokenGenerator>.As<ITokenGenerator>();
 ```
 
 ## License
-Neighborly®
+Prashant
 
 ## Changelog
 - 29-03-2022 Added initial commit
